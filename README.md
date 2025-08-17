@@ -53,8 +53,9 @@ Observations: both models explain ~95% of variance on the training set and ~88% 
 ---
 
 ## Repository Structure
+```
 AIML-Regression-Analysis/
 ├── Regression Analysis Project.ipynb # Main notebook with code and results
 ├── used_cars_data.csv # Dataset
 └── README.md # Project documentation
-
+```
